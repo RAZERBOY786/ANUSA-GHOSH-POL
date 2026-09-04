@@ -8,8 +8,8 @@ Built with **React 19 + Vite 8 + Tailwind CSS v4**, styled with a warm **"Atelie
 
 ## Screenshots
 
-| Portfolio Landing | Monogram Logo | Hero Section |
-|:---:|:---:|:---:|
+| Portfolio Landing |
+|:---:|
 | ![Portfolio Full Page](screenshots/portfolio-full.png) |
 
 ---
