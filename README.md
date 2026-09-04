@@ -6,17 +6,6 @@ Built with **React 19 + Vite 8 + Tailwind CSS v4**, styled with a warm **"Atelie
 
 ---
 
-## Screenshots
-
-| Portfolio Landing | Monogram Logo | Hero Section |
-|:---:|:---:|:---:|
-| ![Portfolio Full Page](screenshots/portfolio-full.png) | ![Monogram Logo](screenshots/monogram-logo.png) | ![Hero Section](screenshots/hero-section.png) |
-
-| Profile Photo |
-|:---:|
-| ![Profile Photo](screenshots/profile-photo.jpeg) |
-
----
 
 ## Live Demo
 
