@@ -6,6 +6,21 @@ Built with **React 19 + Vite 8 + Tailwind CSS v4**, styled with a warm **"Atelie
 
 ---
 
+## Screenshots
+
+| Portfolio Landing | Monogram Logo | Hero Section |
+|:---:|:---:|:---:|
+| ![Portfolio Full Page](screenshots/portfolio-full.png) | ![Monogram Logo](screenshots/monogram-logo.png) | ![Hero Section](screenshots/hero-section.png) |
+
+| Profile Photo | Portfolio Stitch | Monogram Stitch |
+|:---:|:---:|:---:|
+| ![Profile Photo](screenshots/profile-photo.jpeg) | ![Portfolio Stitch](screenshots/portfolio-stitch.png) | ![Monogram Stitch](screenshots/monogram-stitch.png) |
+
+| Portrait Stitch |
+|:---:|
+| ![Portrait Stitch](screenshots/portrait-stitch.png) |
+
+---
 
 ## Live Demo
 
@@ -54,7 +69,10 @@ ANUSA GHOSH/
 │   ├── portfolio-full.png
 │   ├── monogram-logo.png
 │   ├── hero-section.png
-│   └── profile-photo.jpeg
+│   ├── profile-photo.jpeg
+│   ├── portfolio-stitch.png
+│   ├── monogram-stitch.png
+│   └── portrait-stitch.png
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx                # Sticky nav + mobile drawer + bottom bar
