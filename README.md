@@ -9,7 +9,7 @@ Built with **React 19 + Vite 8 + Tailwind CSS v4**, styled with a warm **"Atelie
 
 ## Live Demo
 
-> **[View Live Portfolio](https://anusa-ghosh.vercel.app)**
+> **[View Live Portfolio](https://anusa-ghosh-agg.vercel.app)**
 
 ---
 
